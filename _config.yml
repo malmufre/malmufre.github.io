@@ -14,16 +14,12 @@ author: Marah Al Mufregh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "https://malmufre.github.io/"
   About Me: "aboutme"
-  Resources:
-    - Home: "https://malmufre.github.io/"
-    - About me: "about me"
- 
-  
-  #sample
-   # - Beautiful Jekyll: "https://beautifuljekyll.com"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
-    #Author's home: "https://deanattali.com"
+Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"                         # ADD THIS LINK
 
 # --- Logo --- #
 
