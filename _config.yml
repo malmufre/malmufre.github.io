@@ -96,11 +96,11 @@ feed_show_tags: true
 
 
 navbar-col: "#ecb535"
-navbar-text-col: "#404040"
+navbar-text-col:  "#cfebfd"
 navbar-children-col: "#fcf2dc"
 page-col: "#fefbf5"
 link-col: "#4974a5"
-hover-col: 	"#000080"
+hover-col: "#cfebfd"
 footer-col: "#4974a5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
