@@ -16,18 +16,24 @@ author: Marah Al Mufregh
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Home: "https://malmufre.github.io/"
+    - About me: "about me"
+ 
+  
+  #sample
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+    #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+title-img: "/img/myphoto.png"
+#avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -69,7 +75,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
@@ -99,10 +105,10 @@ navbar-text-col: "#404040"
 navbar-children-col: "#fcf2dc"
 page-col: "#fefbf5"
 link-col: "#B5651D"
-hover-col: "#936b0e"
+hover-col: 	"#808080"
 footer-col: "#cfebfd"
-footer-text-col: "#B5651D"
-footer-link-col: 	"#FFFFFF"
+footer-text-col:	"#000000"  #black
+footer-link-col: 	"#808080"  #grey
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
