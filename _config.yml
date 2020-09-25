@@ -9,7 +9,7 @@
 title: Marah's website
 
 # Short description of your site
-description: This website is an intoduction about me!
+#description: This website is an intoduction about me!
 
 # Your name to show in the footer
 author: Marah Al Mufregh
@@ -69,8 +69,8 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
-
+#rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is an introduction about me!
 # --- General options --- #
 
 # Select which social network share links to show in posts
