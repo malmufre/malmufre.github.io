@@ -26,7 +26,9 @@ There are only three simple steps, so using **Beautiful Jekyll** is *literally* 
 Here is a 40-second video showing how to get started, with the specific steps below.  For a more complete installation guide, 
 [visit the Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
 
-<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
+
+![Installation steps](assets/img/install-steps.gif)
+
 
 <br>
 
