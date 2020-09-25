@@ -133,7 +133,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
     fontsize: 45 px;
      font-weight: bold;
      font-family: Sans-serif;
-    color:	#CCCC00;
+    color:	#cccc00;
     }
 
 .gs-section-03 h3 {
