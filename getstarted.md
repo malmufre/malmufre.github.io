@@ -10,9 +10,6 @@ subtitle: How to use Beautiful Jekyll
 To learn how you can use **Beautiful Jekyll** to create your website , go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
 
 
-<div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
-</div>
 ---
 
 <div class= "gs-section-main" markdown="1">
@@ -94,10 +91,6 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 <div class="gs-section-04" markdown="1">
 
 
-<div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!
-</a>
-</div> 
 
 <style>
 .gs-section-main {
