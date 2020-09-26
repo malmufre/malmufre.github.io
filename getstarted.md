@@ -52,7 +52,7 @@ Forking means that you now copied this entire project and all the files into you
  
 ### 2. Rename the repository to `yourusername.github.io`
 
-Click on Settings at the top (the cog icon) and on that page you'll have an option to rename the project (Repository name). This will create a website with the Beautiful Jekyll template that will be available at 'https://yourusername.github.io' within a couple minutes  (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
+Click on Settings at the top (the cog icon) and on that page you'll have an option to rename the project (Repository name). This will create a website with the Beautiful Jekyll template that will be available at  `https://<yourusername>.github.io` within a couple minutes  (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
 
 <br>
 
