@@ -116,7 +116,7 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
     }
  
 .gs-section-02 h3 {
-  color: #adffee;
+  color: 	#db7093;
   font-family: lighter;
   fontsize: 45 px;
  }
@@ -135,7 +135,7 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
  .gs-section-03 p{
     fontsize: 35 px;
     font-style: italic;
-    color: #f2e394;
+    color: 	#ff1493;
     }
   
 
