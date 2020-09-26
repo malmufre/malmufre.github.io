@@ -4,7 +4,7 @@ title: Getting started
 subtitle: How to use Beautiful Jekyll
 ---
 
-**Beautiful Jekyll** is a ready-to-use template to make help you create GitHub Pages website quickly. 
+**Beautiful Jekyll** is a ready-to-use template to make help you create a Jekyll or GitHub Pages website quickly. 
 
 To learn how you can use **Beautiful Jekyll** to create your website in minutes,
 visit [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
@@ -19,12 +19,12 @@ visit [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyl
      
 <br>
 
-## Steps required
+## Overview of steps required
 
-There are only three simple steps, so using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :smile:   
+There are only three simple steps, so using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :)    
 
-Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps.
-If you don't already have a [GitHub account](https://github.com/join), you'll need to sign up.
+Here is a 40-second video showing how to get started, with the specific steps below.  For a more complete installation guide, 
+[visit the Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
 
 
 ![Installation steps](assets/img/install-steps.gif)
@@ -40,10 +40,10 @@ If you don't already have a [GitHub account](https://github.com/join), you'll ne
 
 <div class="gs-section-00" markdown="1">
 
-### 1. Fork this project
+### 1. Fork the Beautiful Jekyll repository 
 
-Fork this project by clicking the __*Fork*__ button at the top right corner of this page.
-Forking means that you now copied this entire project and all the files into your account.
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
+ 
 <br>
 
 </div>
@@ -56,9 +56,8 @@ Forking means that you now copied this entire project and all the files into you
  
 ### 2. Rename the repository to `yourusername.github.io`
 
+This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 
-Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). 
-This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes 
 <br>
 
 </div>
@@ -70,10 +69,12 @@ This will create a website with the **Beautiful Jekyll** template that will be a
 
 
 
-### 3. Customize your website settings
-To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused). 
-  The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does.
- 
+### 3. Customize settings
+
+Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.
+
+
+You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages.
 <br>
 
 </div>
@@ -83,12 +84,7 @@ To edit the file, click on it to view the file and then click on the pencil icon
 
 <div class="gs-section-03" markdown="1">
 
-### 4. Congratulations! You have a website!
-
-
-After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows),
-your website should be ready in a minute or two at `https://<yourusername>.github.io`.
-
+See how easy that is? I wasn't lying - it really can be done in two minutes.
 <br>
   
   </div>
@@ -96,6 +92,14 @@ your website should be ready in a minute or two at `https://<yourusername>.githu
   
   <br>
   
+  <div class="gs-section-04" markdown="1">
+    
+    
+    <div class="get-started-wrap">
+      <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!
+        </a>
+        </div> 
+        
         <style>
         .gs-section-main {
           background-color:#eeadff;
@@ -145,6 +149,37 @@ your website should be ready in a minute or two at `https://<yourusername>.githu
         color: #f2e394;
       }
       
+      
+      .gs-section-04 p{
+        fontsize: 25 px;
+        font-family: normal;
+        font-weight:italic;
+        color:#588c7e;
+      }
+      
+      .btn btn-success btn-lg get-started-btn {
+        
+        background-color: #588c7e;
+          border-radius: 18 px;
+        border: black;
+        border-style: dotted;
+        color: #ffcc5c;
+          padding: 20px 40px 20px 40px;
+        text-align: justify;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+      
+      .btn btn-success btn-lg get-started-btn:hover{
+        text-decoration: none;
+        color: #d96459;
+          background: #ffeead;
+      }
       
       </style>
 
