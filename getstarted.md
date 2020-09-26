@@ -87,10 +87,6 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 </div>
 ---
 
-<br>
-
-<div class="gs-section-04" markdown="1">
-
 
 
 <style>
@@ -147,7 +143,7 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
     fontsize: 25 px;
     font-family: normal;
     font-weight:italic;
-    color:#588c7e;
+    color:#00008b;
     }
 
  
