@@ -146,31 +146,6 @@ your website should be ready in a minute or two at `https://<yourusername>.githu
       }
       
       
-  
-      .btn btn-success btn-lg get-started-btn {
-        
-        background-color: #588c7e;
-          border-radius: 18 px;
-        border: black;
-        border-style: dotted;
-        color: #ffcc5c;
-          padding: 20px 40px 20px 40px;
-        text-align: justify;
-        text-decoration: none;
-        text-transform: uppercase;
-        letter-spacing: 3px;
-        display: inline-block;
-        font-size: 20px;
-        margin: 4px 2px;
-        cursor: pointer;
-      }
-      
-      .btn btn-success btn-lg get-started-btn:hover{
-        text-decoration: none;
-        color: #d96459;
-          background: #ffeead;
-      }
-      
       </style>
 
 
