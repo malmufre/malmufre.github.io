@@ -9,7 +9,9 @@ subtitle: How to use Beautiful Jekyll
 
 To learn how you can use **Beautiful Jekyll** to create your website , go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
 
-
+<div class="get-started-wrap">
+  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
+</div>
 ---
 
 <div class= "gs-section-main" markdown="1">
@@ -90,7 +92,10 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 
 <div class="gs-section-04" markdown="1">
 
-
+<div class="get-started-wrap">
+  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!
+</a>
+</div> 
 
 <style>
 .gs-section-main {
@@ -149,28 +154,5 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
     color:#588c7e;
     }
     
-  .btn btn-success btn-lg get-started-btn {
-  
-  background-color: #588c7e;
-  border-radius: 18 px;
-  border: black;
-  border-style: dotted;
-  color: #ffcc5c;
-  padding: 20px 40px 20px 40px;
-  text-align: justify;
-  text-decoration: none;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  display: inline-block;
-  font-size: 20px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
-.btn btn-success btn-lg get-started-btn:hover{
-     text-decoration: none;
-     color: #d96459;
-     background: #ffeead;
-}
-
+ 
 </style>
