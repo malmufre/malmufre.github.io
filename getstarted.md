@@ -101,14 +101,14 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 
 <style>
 .gs-section-main {
-     background-color: #ffeead;
+     background-color: #eeadff;
 }
 .gs-section-main p{
-     color:  #96ceb4;
+     color:#fff9e0;
 }
 
 .gs-section-00 h2 {
-  color: #588c7e;
+  color:#adbeff;
  }
  .gs-section-00 p{
     fontsize: 30 px;
@@ -121,24 +121,24 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
  }
  .gs-section-01 p{
     fontsize: 45 px;
-    font-weight: normal;
+    font-weight: lighter;
     font-family: Arial, Helvetica, sans-serif;
     }
  
 .gs-section-02 h3 {
-  color: #588c7e;
-  font-family: normal;
+  color: #adffee;
+  font-family: lighter;
   fontsize: 45 px;
  }
  .gs-section-02 p{
     fontsize: 45 px;
      font-weight: bold;
      font-family: Sans-serif;
-    color:  #d96459;
+    color:  #cccc00;
     }
 
 .gs-section-03 h3 {
-  color: #588c7e;
+  color: 	#adffee;
  font-family: "Times New Roman", Times, serif;
   fontsize: 20 px;
  }
