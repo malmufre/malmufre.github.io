@@ -52,7 +52,7 @@ Forking means that you now copied this entire project and all the files into you
  
 ### 2. Rename the repository to `yourusername.github.io`
 
-Click on Settings at the top (the cog icon) and on that page you'll have an option to rename the project (Repository name). This will create a website with the Beautiful Jekyll template that will be available at 'https://yourusername.github.io' within a couple minutes .
+Click on Settings at the top (the cog icon) and on that page you'll have an option to rename the project (Repository name). This will create a website with the Beautiful Jekyll template that will be available at 'https://yourusername.github.io' within a couple minutes  (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
 
 <br>
 
@@ -67,7 +67,7 @@ Click on Settings at the top (the cog icon) and on that page you'll have an opti
 
 ### 3. Customize settings
 
-Edit the '_config.yml' file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does. Any line that begins with a hashtag ('#') is a comment, and the other lines are actual settings. 
+Edit the `_config.yml` file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does. Any line that begins with a hashtag ('#') is a comment, and the other lines are actual settings. 
 
 <br>
 
@@ -128,23 +128,17 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
     }
 
 .gs-section-03 h3 {
-  color: 	#adffee;
+  color: 	#00008b;
  font-family: "Times New Roman", Times, serif;
   fontsize: 20 px;
  }
  .gs-section-03 p{
     fontsize: 35 px;
-    font-style: oblique;
+    font-style: italic;
     color: #f2e394;
     }
   
- 
- .gs-section-04 p{
-    fontsize: 25 px;
-    font-family: normal;
-    font-weight:italic;
-    color:#00008b;
-    }
+
 
  
 </style>
