@@ -24,14 +24,16 @@ There are only three simple steps, so using **Beautiful Jekyll** is *literally* 
 
 Scroll down to see the steps involved,but here is a 40-second video just as a reference as you  work through the steps.If you don't already have a [GitHub account](https://github.com/join), you'll need to sign up. 
 
-![Installation steps](assets/img/install-steps.gif)
+
 
 <br>
 
 </div>
 
 ---
-     
+![Installation steps](assets/img/install-steps.gif)
+
+
 <br>
 
 <div class="gs-section-00" markdown="1">
@@ -153,6 +155,23 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
     font-weight:italic;
     color:#588c7e;
     }
-    
+      .btn btn-success btn-lg get-started-btn {
+  
+  background-color: #588c7e;
+  border-radius: 18 px;
+  border: black;
+  border-style: dotted;
+  color: #ffcc5c;
+  padding: 20px 40px 20px 40px;
+  text-align: justify;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+  
  
 </style>
