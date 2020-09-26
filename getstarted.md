@@ -5,9 +5,9 @@ subtitle: How to use Beautiful Jekyll
 
 ---
 
-**Beautiful Jekyll** is a ready-to-use template to make help you create a GitHub Pages website quickly. 
+**Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. It is perfect for personal sites, blogs, or simple project websites.
 
-To learn how you can use **Beautiful Jekyll** to create your website , go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
+To learn how you can use **Beautiful Jekyll**  check the steps below or go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
 
 ---
 
